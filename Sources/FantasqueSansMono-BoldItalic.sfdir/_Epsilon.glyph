@@ -1,11 +1,10 @@
 StartChar: Epsilon
 Encoding: 917 917 371
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 204<323 868.946> 646 203<450 751.438> 1118 205<493.966 1033.45>
+Flags: HW
+HStem: 0 100<158 424> 315 99<220 367> 546 100<241 505>
 LayerCount: 2
 Fore
 Refer: 30 69 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

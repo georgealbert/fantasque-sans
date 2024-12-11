@@ -1,20 +1,19 @@
 StartChar: onehalf
 Encoding: 189 189 202
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -311 169<470 798> 279 168<520.036 686.941> 519 168<138 998> 1098 200<398.635 499.708>
-VStem: 368 599 691 218<153.611 273.191>
+Flags: HW
+HStem: -152 83<229 390> 136 82<254 335> 253 82<67 487> 536 98<195 244>
+VStem: 180 292 337 106<75 133>
 LayerCount: 2
 Fore
 SplineSet
-138 687 m 1xf0
- 1031 687 l 1
- 998 519 l 1
- 105 519 l 1
- 138 687 l 1xf0
+67 335 m 1xf0
+ 503 335 l 1
+ 487 253 l 1
+ 51 253 l 1
+ 67 335 l 1xf0
 EndSplineSet
 Refer: 780 8322 N 1 0 0 1 0 0 2
 Refer: 199 185 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

@@ -1,13 +1,12 @@
 StartChar: Ncommaaccent
 Encoding: 325 325 262
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: -581 532 0 21G<-1 260 596 870> 1305 20G<215 293 862.5 924.5>
-VStem: 198 369 616 249<0 224.453>
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: -284 260 0 10G<-0 127 291 425> 637 10G<105 143 421 451>
+VStem: 97 180 301 122<0 110>
 LayerCount: 2
 Fore
-Refer: 488 806 N 1 0 0 1 -19 -53 2
+Refer: 488 806 N 1 0 0 1 -9 -26 2
 Refer: 37 78 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

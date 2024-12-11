@@ -1,13 +1,12 @@
 StartChar: Scaron
 Encoding: 352 352 286
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: -9 209<334.844 620.656> 1118 210<489.142 842.193> 1373 447
-VStem: 23 269<240.962 420> 164 273<895.299 1064.55> 720 266<292.465 530.142>
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: -4 102<163 303> 546 103<239 411> 670 218
+VStem: 11 131<118 205> 80 133<437 520> 352 130<143 259>
 LayerCount: 2
 Fore
-Refer: 334 780 N 1 0 0 1 1 167 2
+Refer: 334 780 N 1 0 0 1 0 82 2
 Refer: 42 83 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

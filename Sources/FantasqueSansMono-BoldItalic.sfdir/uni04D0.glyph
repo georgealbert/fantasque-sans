@@ -1,12 +1,11 @@
 StartChar: uni04D0
 Encoding: 1232 1232 664
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 21G<-69 196.5 692 972> 281 223<409.995 673.747> 1305 20G<505.5 849.5> 1468 183<660.135 907.439>
+Flags: HW
+HStem: 0 10G<-34 96 338 475> 137 109<200 329> 637 10G<247 415> 717 89<322 443>
 LayerCount: 2
 Fore
-Refer: 328 774 N 1 0 0 1 46 143 2
+Refer: 328 774 N 1 0 0 1 22 70 2
 Refer: 506 1040 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

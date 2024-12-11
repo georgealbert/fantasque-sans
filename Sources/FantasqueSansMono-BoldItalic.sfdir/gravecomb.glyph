@@ -1,19 +1,18 @@
 StartChar: gravecomb
 Encoding: 768 768 322
-Width: 1060
-VWidth: -43
-Flags: W
-HStem: 1267 450
-VStem: 380 562
-AnchorPoint: "above_accent" 595 1227 mark 0
+Width: 517
+VWidth: -20
+Flags: HW
+HStem: 619 220
+VStem: 186 274
+AnchorPoint: "above_accent" 291 599 mark 0
 LayerCount: 2
 Fore
 SplineSet
-942 1432 m 1
- 840 1267 l 1
- 706 1314 469 1442 380 1554 c 1
- 525 1717 l 1
- 619 1609 808 1480 942 1432 c 1
+460 699 m 1
+ 410 619 l 1
+ 345 642 229 704 186 759 c 1
+ 256 838 l 1
+ 302 785 395 722 460 699 c 1
 EndSplineSet
-Validated: 1
 EndChar

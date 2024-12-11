@@ -1,19 +1,18 @@
 StartChar: tonos
 Encoding: 900 900 392
-Width: 1060
-VWidth: -43
-Flags: W
-HStem: 1222 454
-VStem: 510 450
-AnchorPoint: "above_accent" 590 1159 mark 0
+Width: 517
+VWidth: -20
+Flags: HW
+HStem: 597 222
+VStem: 249 220
+AnchorPoint: "above_accent" 288 566 mark 0
 LayerCount: 2
 Fore
 SplineSet
-510 1334 m 1
- 628 1451 666 1523 735 1676 c 1
- 810 1658 885 1640 960 1622 c 1
- 897 1468 790 1338 672 1222 c 1
- 618 1259 564 1297 510 1334 c 1
+249 651 m 1
+ 307 708 325 743 359 818 c 1
+ 396 809 432 801 469 792 c 1
+ 438 717 386 654 328 597 c 1
+ 302 615 275 633 249 651 c 1
 EndSplineSet
-Validated: 1
 EndChar

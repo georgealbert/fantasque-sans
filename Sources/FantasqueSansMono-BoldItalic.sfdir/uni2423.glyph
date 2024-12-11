@@ -1,21 +1,20 @@
 StartChar: uni2423
 Encoding: 9251 9251 973
-Width: 1060
-VWidth: 41
-Flags: W
-HStem: -334 434<43 213 661 790> -334 213<213 618>
+Width: 517
+VWidth: 20
+Flags: HW
+HStem: -163 212<21 104 323 386> -163 104<104 302>
 LayerCount: 2
 Fore
 SplineSet
-790 -334 m 1x80
- -41 -334 l 1x40
- 43 100 l 1
- 256 100 l 1x80
- 213 -121 l 1
- 618 -121 l 1x40
- 661 100 l 1
- 874 100 l 1
- 790 -334 l 1x80
+386 -163 m 1x80
+ -20 -163 l 1x40
+ 21 49 l 1
+ 125 49 l 1x80
+ 104 -59 l 1
+ 302 -59 l 1x40
+ 323 49 l 1
+ 427 49 l 1
+ 386 -163 l 1x80
 EndSplineSet
-Validated: 1
 EndChar

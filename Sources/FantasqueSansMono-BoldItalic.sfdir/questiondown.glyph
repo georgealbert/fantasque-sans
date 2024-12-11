@@ -1,10 +1,9 @@
 StartChar: questiondown
 Encoding: 191 191 172
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 119 63 S -1 -8.74228e-08 8.74228e-08 -1 1091.92 1014 2
-Validated: 1
+Refer: 119 63 S -1 -8.74228e-08 8.74228e-08 -1 533 495 2
 EndChar

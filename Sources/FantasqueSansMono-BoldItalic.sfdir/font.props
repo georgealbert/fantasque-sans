@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: FantasqueSansMono-BoldItalic
 FullName: Fantasque Sans Mono Bold Italic
 FamilyName: Fantasque Sans Mono
@@ -7,10 +7,10 @@ Copyright: Created by Jany Belluz with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2013-9-13: Created."
 Version: 1.8.0
 ItalicAngle: -11
-UnderlinePosition: -192
-UnderlineWidth: 96
-Ascent: 1650
-Descent: 398
+UnderlinePosition: -93.75
+UnderlineWidth: 14.6484
+Ascent: 800
+Descent: 200
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -22,25 +22,25 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1379052706
-ModificationTime: 1573932926
+ModificationTime: 1733889721
 PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
-LineGap: 50
+LineGap: 24
 VLineGap: 0
 Panose: 2 11 8 9 2 2 4 3 2 4
-OS2TypoAscent: 1650
+OS2TypoAscent: 806
 OS2TypoAOffset: 0
-OS2TypoDescent: -398
+OS2TypoDescent: -194
 OS2TypoDOffset: 0
-OS2TypoLinegap: 100
-OS2WinAscent: 1750
+OS2TypoLinegap: 49
+OS2WinAscent: 854
 OS2WinAOffset: 0
-OS2WinDescent: 398
+OS2WinDescent: 194
 OS2WinDOffset: 0
-HheadAscent: 1700
+HheadAscent: 830
 HheadAOffset: 0
-HheadDescent: -398
+HheadDescent: -194
 HheadDOffset: 0
 OS2FamilyClass: 2057
 OS2Vendor: 'PfEd'
@@ -58,24 +58,24 @@ AntiAlias: 1
 FitToEm: 1
 WinInfo: 57550 25 8
 BeginPrivate: 1
-BlueValues 37 [-37 0 1013 1052 1281 1376 1390 1444]
+BlueValues 31 [-18 0 495 514 625 672 679 705]
 EndPrivate
 Grid
--2048 87.5000126511 m 0
- 4096 87.5000126511 l 1024
--2048 1183.6 m 0
- 4096 1183.6 l 1024
+-1000 42.724609375 m 0
+ 2000 42.724609375 l 1024
+-1000 577.9296875 m 0
+ 2000 577.9296875 l 1024
   Named: "bas point du i"
--2048 1013.08 m 4
- 4096 1013.08 l 1028
+-1000 494.66796875 m 4
+ 2000 494.66796875 l 1028
   Named: "lowercase"
--2048 1280.5 m 0
- 4096 1280.5 l 1024
+-1000 625.244140625 m 0
+ 2000 625.244140625 l 1024
   Named: "numbers"
--1963.46 504.484 m 0
- 3873.34 504.484 l 1024
--1945.6 1375.6 m 0
- 3891.2 1375.6 l 1024
+-958.720703125 246.330078125 m 0
+ 1891.27929688 246.330078125 l 1024
+-950 671.6796875 m 0
+ 1900 671.6796875 l 1024
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 423805 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "cedilla_accent" "'mark' Placement de signe diacritique lookups1-2" "above_accent" "'mark' Placement de signe diacritique lookups1-1"

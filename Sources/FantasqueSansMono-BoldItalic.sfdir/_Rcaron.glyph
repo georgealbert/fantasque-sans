@@ -1,13 +1,12 @@
 StartChar: Rcaron
 Encoding: 344 344 278
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: 0 21G<15 276> 1124 205<468.453 748.793> 1373 447
-VStem: 813 269<812.323 1068.19>
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: 0 10G<7 135> 549 100<229 366> 670 218
+VStem: 397 131<397 522>
 LayerCount: 2
 Fore
-Refer: 334 780 N 1 0 0 1 -44 167 2
+Refer: 334 780 N 1 0 0 1 -21 82 2
 Refer: 41 82 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

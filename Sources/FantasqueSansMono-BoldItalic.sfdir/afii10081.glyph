@@ -1,13 +1,12 @@
 StartChar: afii10081
 Encoding: 1087 1087 553
-Width: 1060
-VWidth: 6
-Flags: W
-HStem: 0 21G<25 292.5> 819 207<613.407 868> 1032 20G<389 429.5>
-VStem: 192 239<822.06 1017.4> 650 265<115.569 423.505> 756 268<601.9 914.5>
+Width: 517
+VWidth: 2
+Flags: HW
+HStem: 0 10G<12 143> 400 101<300 424> 504 10G<190 210>
+VStem: 94 117<401 497> 317 129<56 207> 369 131<294 447>
 LayerCount: 2
 Fore
 Refer: 15 110 S 1 0 0 1 0 0 2
-Validated: 1
 Substitution2: "'locl' Macedonian/Serbian italic forms" afii10081.serbian
 EndChar

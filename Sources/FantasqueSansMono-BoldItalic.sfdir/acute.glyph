@@ -1,18 +1,17 @@
 StartChar: acute
 Encoding: 180 180 174
-Width: 1060
-VWidth: -43
-Flags: W
-HStem: 1267 442
-VStem: 404 585
+Width: 517
+VWidth: -20
+Flags: HW
+HStem: 619 216
+VStem: 197 286
 LayerCount: 2
 Fore
 SplineSet
-404 1441 m 1
- 556 1489 752 1601 888 1709 c 1
- 922 1652 955 1594 989 1537 c 1
- 856 1425 612 1314 460 1267 c 1
- 441 1325 423 1383 404 1441 c 1
+197 704 m 1
+ 271 727 368 781 434 834 c 1
+ 451 806 466 778 483 750 c 1
+ 418 695 299 642 225 619 c 1
+ 216 647 206 676 197 704 c 1
 EndSplineSet
-Validated: 1
 EndChar

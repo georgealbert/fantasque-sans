@@ -1,10 +1,9 @@
 StartChar: exclamdown
 Encoding: 161 161 121
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 68 33 S -0.999996 0.0027248 -0.0027248 -0.999996 1002.59 1011 2
-Validated: 1
+Refer: 68 33 S -0.999996 0.0027248 -0.0027248 -0.999996 490 494 2
 EndChar

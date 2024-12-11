@@ -1,13 +1,12 @@
 StartChar: afii10070
 Encoding: 1077 1077 543
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: -10 206<384.238 715.575> 818 203<490.842 711.12>
-VStem: 88 255<237.586 336.479> 738 253<630.154 791.478>
-AnchorPoint: "above_accent" 683 1107 basechar 0
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: -5 101<188 349> 399 99<240 347>
+VStem: 43 125<116 164> 360 124<308 386>
+AnchorPoint: "above_accent" 333 541 basechar 0
 LayerCount: 2
 Fore
 Refer: 4 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
