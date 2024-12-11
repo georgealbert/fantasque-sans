@@ -1,18 +1,17 @@
 StartChar: dnblock
 Encoding: 9604 9604 710
-Width: 1060
-VWidth: 1918
-Flags: W
-HStem: -505 1163<-20 1080>
-VStem: -20 1100<-505 658>
+Width: 517
+VWidth: 936
+Flags: HW
+HStem: -247 568<-10 527>
+VStem: -10 537<-247 321>
 LayerCount: 2
 Fore
 SplineSet
--20 658 m 1
- 1080 658 l 1
- 1080 -505 l 1
- -20 -505 l 1
- -20 658 l 1
+-10 321 m 1
+ 527 321 l 1
+ 527 -247 l 1
+ -10 -247 l 1
+ -10 321 l 1
 EndSplineSet
-Validated: 1
 EndChar

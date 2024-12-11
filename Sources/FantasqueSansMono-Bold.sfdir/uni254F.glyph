@@ -1,22 +1,21 @@
 StartChar: uni254F
 Encoding: 9551 9551 655
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-VStem: 400 260<-505 390 650 1820>
+Flags: HW
+VStem: 195 127<-247 190 317 889>
 LayerCount: 2
 Fore
 SplineSet
-400 650 m 1
- 400 1820 l 1
- 660 1820 l 1
- 660 650 l 1
- 400 650 l 1
-400 390 m 1
- 660 390 l 1
- 660 -505 l 1
- 400 -505 l 1
- 400 390 l 1
+195 317 m 1
+ 195 889 l 1
+ 322 889 l 1
+ 322 317 l 1
+ 195 317 l 1
+195 190 m 1
+ 322 190 l 1
+ 322 -247 l 1
+ 195 -247 l 1
+ 195 190 l 1
 EndSplineSet
-Validated: 1
 EndChar

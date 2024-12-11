@@ -1,12 +1,11 @@
 StartChar: mu
 Encoding: 956 956 352
-Width: 1060
-VWidth: 6
-Flags: W
-HStem: -17 21G<849 896.628> 2 204<324.082 570.039> 1000 20G<114.857 303>
-VStem: 66 244<-395 8 218.457 876.355> 649 257<285.916 1000>
+Width: 517
+VWidth: 2
+Flags: HW
+HStem: -8 10G<415 438> 1 100<158 278> 488 10G<56 148>
+VStem: 32 119<-193 4 107 428> 317 125<140 488>
 LayerCount: 2
 Fore
 Refer: 169 181 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

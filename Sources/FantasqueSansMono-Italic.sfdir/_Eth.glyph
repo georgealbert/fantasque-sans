@@ -1,12 +1,11 @@
 StartChar: Eth
 Encoding: 208 208 152
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -10 151<183 598.492> 780 147<66 153 339 666> 1152 152<375.491 684.326>
-VStem: 859 164<461.499 960.578>
+Flags: HW
+HStem: -5 74<89 292> 381 72<32 75 166 325> 562 74<183 334>
+VStem: 419 80<225 469>
 LayerCount: 2
 Fore
 Refer: 212 272 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

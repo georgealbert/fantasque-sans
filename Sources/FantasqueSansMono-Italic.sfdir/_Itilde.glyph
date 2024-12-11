@@ -1,12 +1,11 @@
 StartChar: Itilde
 Encoding: 296 296 232
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: 4 147<108 376 537 774> 1144 154<329 571 731 997> 1402 153<766.861 979.291> 1531 153<467.568 674.314>
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: 2 72<53 184 262 378> 559 75<161 279 357 487> 685 75<374 478> 748 75<228 329>
 LayerCount: 2
 Fore
-Refer: 323 771 S 1 0 0 1 -7 -10 2
+Refer: 323 771 S 1 0 0 1 -3 -5 2
 Refer: 50 73 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

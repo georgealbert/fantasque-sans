@@ -1,13 +1,12 @@
 StartChar: dieresis
 Encoding: 168 168 173
-Width: 1060
-VWidth: -28
-Flags: W
-HStem: 1184 240<146 425 566 848>
-VStem: 146 279<1184 1424> 566 282<1184 1421>
-AnchorPoint: "above_accent" 483 1108 mark 0
+Width: 517
+VWidth: -13
+Flags: HW
+HStem: 578 117<71 208 276 414>
+VStem: 71 136<578 695> 276 138<578 694>
+AnchorPoint: "above_accent" 236 541 mark 0
 LayerCount: 2
 Fore
 Refer: 329 776 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

@@ -1,23 +1,22 @@
 StartChar: exclam
 Encoding: 33 33 68
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 270<350 700> 1321 20G<367 682>
-VStem: 350 350<0 270> 367 315<525.64 1341> 383 283<431 1246.15>
+Flags: HW
+HStem: 0 132<171 342> 645 10G<179 333>
+VStem: 171 171<0 132> 179 154<257 655> 187 138<210 608>
 LayerCount: 2
 Fore
 SplineSet
-682 1341 m 1xd0
- 666 431 l 1
- 383 429 l 1xc8
- 367 1341 l 1
- 682 1341 l 1xd0
-350 270 m 1xe0
- 700 270 l 1
- 700 0 l 1
- 350 0 l 1
- 350 270 l 1xe0
+333 655 m 1xd0
+ 325 210 l 1
+ 187 209 l 1xc8
+ 179 655 l 1
+ 333 655 l 1xd0
+171 132 m 1xe0
+ 342 132 l 1
+ 342 0 l 1
+ 171 0 l 1
+ 171 132 l 1xe0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,20 +1,19 @@
 StartChar: onequarter
 Encoding: 188 188 201
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -159 138<378 586 728 856> 534 141<78 971>
-VStem: 571 145<769 1325> 589 139<-316 -159 -17 236>
+Flags: HW
+HStem: -78 67<185 286 355 418> 261 69<38 474>
+VStem: 279 71<375 647> 288 68<-154 -78 -8 115>
 LayerCount: 2
 Fore
 SplineSet
-78 675 m 1xc0
- 971 675 l 1
- 971 534 l 1
- 78 534 l 1
- 78 675 l 1xc0
+38 330 m 1xc0
+ 474 330 l 1
+ 474 261 l 1
+ 38 261 l 1
+ 38 330 l 1xc0
 EndSplineSet
 Refer: 971 8324 N 1 0 0 1 0 0 2
 Refer: 199 185 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

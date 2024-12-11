@@ -1,12 +1,11 @@
 StartChar: kgreenlandic
 Encoding: 312 312 249
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 5G<90 348 771 831.46> 1002 20G<90 348>
-VStem: 90 258<0 352.312 676 1022>
+Flags: HW
+HStem: 0 2G<44 170 376 406> 489 10G<44 170>
+VStem: 44 126<0 172 330 499>
 LayerCount: 2
 Fore
 Refer: 350 954 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

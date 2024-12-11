@@ -1,30 +1,29 @@
 StartChar: N
 Encoding: 78 78 37
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 21G<75 321 646 940> 1305 20G<75 286 696.5 945>
-VStem: 75 245<-3 778> 696 245<0 98.8086 504 1328>
-AnchorPoint: "cedilla_accent" 507 0 basechar 0
-AnchorPoint: "above_accent" 490 1322 basechar 0
+Flags: HW
+HStem: 0 10G<37 157 315 459> 637 10G<37 140 340 461>
+VStem: 37 120<-1 380> 340 120<0 48 246 648>
+AnchorPoint: "cedilla_accent" 248 0 basechar 0
+AnchorPoint: "above_accent" 239 646 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-691 0 m 1
- 601 259 454 559 320 778 c 1
- 320 570 l 2
- 320 271 321 152 321 -3 c 1
- 75 -3 l 1
- 75 1325 l 1
- 286 1318 l 1
- 412 1130 646 738 696 504 c 1
- 689 778 l 0
- 689 968 692 1155 701 1329 c 1
- 945 1328 l 1
- 939 1213 937 1061 937 895 c 0
- 937 664 941 405 941 170 c 0
- 941 112 940 54 940 0 c 1
- 691 0 l 1
+337 0 m 1
+ 293 126 221 273 156 380 c 1
+ 156 278 l 2
+ 156 132 157 75 157 -1 c 1
+ 37 -1 l 1
+ 37 647 l 1
+ 140 644 l 1
+ 202 552 316 360 340 246 c 1
+ 336 380 l 0
+ 336 473 338 564 342 649 c 1
+ 461 648 l 1
+ 458 592 458 518 458 437 c 0
+ 458 324 459 198 459 83 c 0
+ 459 55 459 26 459 0 c 1
+ 337 0 l 1
 EndSplineSet
-Validated: 1
 EndChar

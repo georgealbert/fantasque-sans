@@ -1,12 +1,11 @@
 StartChar: uni2080
 Encoding: 8320 8320 967
-Width: 1060
-VWidth: -1080
-Flags: W
-HStem: -325 142<413.863 608.337> 299 142<419.992 625.753>
-VStem: 214 143<-67.5663 232.092> 670 142<-113.602 199.406>
+Width: 517
+VWidth: -527
+Flags: HW
+HStem: -159 69<202 297> 146 69<205 306>
+VStem: 104 70<-33 113> 327 69<-55 97>
 LayerCount: 2
 Fore
-Refer: 965 8304 N 1 0 0 1 0 -1080 2
-Validated: 1
+Refer: 965 8304 N 1 0 0 1 0 -527 2
 EndChar

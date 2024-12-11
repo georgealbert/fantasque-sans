@@ -1,14 +1,13 @@
 StartChar: uni051C
 Encoding: 1308 1308 958
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 21G<179.5 336 699 851.5> 1298 20G<63.75 220 804.5 966.75>
-VStem: 868 158<1066.13 1285.9>
+Flags: HW
+HStem: 0 10G<88 164 341 416> 634 10G<31 107 393 472>
+VStem: 424 77<521 628>
 LayerCount: 2
 Back
 Refer: 46 87 N 1 0 0 1 0 0 3
 Fore
 Refer: 46 87 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

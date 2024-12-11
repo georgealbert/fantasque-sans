@@ -1,13 +1,12 @@
 StartChar: imacron
 Encoding: 299 299 237
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: -18 142<542.51 910.467> 857 156<124.467 378> 1180.8 152<225 679>
-VStem: 225 454<1181.8 1332.8> 378 155<210.385 857>
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: -9 69<265 445> 418 76<61 185> 577 74<110 332>
+VStem: 110 222<577 651> 185 76<103 418>
 LayerCount: 2
 Fore
-Refer: 326 772 S 1 0 0 1 -31.0001 -292.2 2
+Refer: 326 772 S 1 0 0 1 -15 -143 2
 Refer: 177 305 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

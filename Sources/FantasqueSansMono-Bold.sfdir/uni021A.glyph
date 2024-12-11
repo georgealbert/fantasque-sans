@@ -1,13 +1,12 @@
 StartChar: uni021A
 Encoding: 538 538 478
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -581 532 0 21G<355 615> 1118 207<39 355 615 909.962>
-VStem: 352 270<-270 -49> 355 260<0 1118> 408 214<-426.832 -270>
+Flags: HW
+HStem: -284 260 0 10G<173 300> 546 101<19 173 300 444>
+VStem: 172 132<-132 -24> 173 127<0 546> 199 104<-208 -132>
 LayerCount: 2
 Fore
-Refer: 519 806 N 1 0 0 1 -38 -53 2
+Refer: 519 806 N 1 0 0 1 -19 -26 2
 Refer: 43 84 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

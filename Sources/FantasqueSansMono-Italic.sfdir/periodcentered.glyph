@@ -1,10 +1,9 @@
 StartChar: periodcentered
 Encoding: 183 183 171
-Width: 1060
-VWidth: 26
-Flags: W
+Width: 517
+VWidth: 12
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 53 46 N 1 0 -3.12924e-07 1 83.9998 387 2
-Validated: 1
+Refer: 53 46 N 1 0 -3.12924e-07 1 41 189 2
 EndChar

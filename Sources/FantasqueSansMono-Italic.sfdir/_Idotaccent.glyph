@@ -1,13 +1,12 @@
 StartChar: Idotaccent
 Encoding: 304 304 240
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: 4 147<108 376 537 774> 1144 154<329 571 731 997> 1427 225<613 805>
-VStem: 569 279
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: 2 72<53 184 262 378> 559 75<161 279 357 487> 697 110<299 393>
+VStem: 278 136
 LayerCount: 2
 Fore
-Refer: 328 775 S 1 0 0 1 33 1 2
+Refer: 328 775 S 1 0 0 1 16 0 2
 Refer: 50 73 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

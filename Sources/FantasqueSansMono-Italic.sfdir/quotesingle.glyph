@@ -1,20 +1,19 @@
 StartChar: quotesingle
 Encoding: 39 39 70
-Width: 1060
-VWidth: -25
-Flags: W
-HStem: 788 676
-VStem: 473 150<820.559 915.86>
+Width: 517
+VWidth: -12
+Flags: HW
+HStem: 385 330
+VStem: 231 73<401 447>
 LayerCount: 2
 Fore
 SplineSet
-584 1464 m 1
- 795 1433 l 1
- 740 1150 696 989 623 788 c 1
- 473 824 l 1
- 508 921 546 1072 546 1197 c 0
- 546 1218 545 1238 544 1258 c 1
- 584 1464 l 1
+285 715 m 1
+ 388 700 l 1
+ 361 562 340 483 304 385 c 1
+ 231 402 l 1
+ 248 449 267 523 267 584 c 0
+ 267 594 266 604 266 614 c 1
+ 285 715 l 1
 EndSplineSet
-Validated: 1
 EndChar

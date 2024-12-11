@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: FantasqueSansMono-Italic
 FullName: Fantasque Sans Mono Italic
 FamilyName: Fantasque Sans Mono
@@ -7,10 +7,10 @@ Copyright: Created by Jany Belluz with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2013-9-13: Created."
 Version: 1.8.0
 ItalicAngle: -11
-UnderlinePosition: -192
-UnderlineWidth: 96
-Ascent: 1650
-Descent: 398
+UnderlinePosition: -93.75
+UnderlineWidth: 14.6484
+Ascent: 800
+Descent: 200
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -22,25 +22,25 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1379052706
-ModificationTime: 1573932975
+ModificationTime: 1733889687
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 50
+LineGap: 24
 VLineGap: 0
 Panose: 2 11 6 9 2 2 4 3 2 4
-OS2TypoAscent: 1650
+OS2TypoAscent: 806
 OS2TypoAOffset: 0
-OS2TypoDescent: -398
+OS2TypoDescent: -194
 OS2TypoDOffset: 0
-OS2TypoLinegap: 100
-OS2WinAscent: 1750
+OS2TypoLinegap: 49
+OS2WinAscent: 854
 OS2WinAOffset: 0
-OS2WinDescent: 398
+OS2WinDescent: 194
 OS2WinDOffset: 0
-HheadAscent: 1700
+HheadAscent: 830
 HheadAOffset: 0
-HheadDescent: -398
+HheadDescent: -194
 HheadDOffset: 0
 OS2FamilyClass: 2057
 OS2Vendor: 'PfEd'
@@ -57,22 +57,22 @@ AntiAlias: 1
 FitToEm: 1
 WinInfo: 57325 25 8
 BeginPrivate: 1
-BlueValues 37 [-29 1 1021 1061 1281 1345 1402 1431]
+BlueValues 31 [-14 0 499 518 625 657 685 699]
 EndPrivate
 Grid
--2048 1180.9 m 0
- 4096 1180.9 l 1024
+-1000 576.611328125 m 0
+ 2000 576.611328125 l 1024
   Named: "bas point du i"
--2048 1019.8 m 0
- 4096 1019.8 l 1024
+-1000 497.94921875 m 0
+ 2000 497.94921875 l 1024
   Named: "lowercase"
--2048 1280.5 m 0
- 4096 1280.5 l 1024
+-1000 625.244140625 m 0
+ 2000 625.244140625 l 1024
   Named: "numbers"
--1963.46 504.484 m 0
- 3873.34 504.484 l 1024
--1945.6 1375.6 m 0
- 3891.2 1375.6 l 1024
+-958.720703125 246.330078125 m 0
+ 1891.27929688 246.330078125 l 1024
+-950 671.6796875 m 0
+ 1900 671.6796875 l 1024
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 423805 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont

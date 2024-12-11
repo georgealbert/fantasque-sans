@@ -1,12 +1,11 @@
 StartChar: Nu
 Encoding: 925 925 378
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 21G<75 321 646 940> 1305 20G<75 286 696.5 945>
-VStem: 75 245<-3 778> 696 245<0 98.8086 504 1328>
+Flags: HW
+HStem: 0 10G<37 157 315 459> 637 10G<37 140 340 461>
+VStem: 37 120<-1 380> 340 120<0 48 246 648>
 LayerCount: 2
 Fore
 Refer: 37 78 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

@@ -1,13 +1,12 @@
 StartChar: oslashacute
 Encoding: 511 511 461
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 1 155<300.305 596.059> 878 154<440.388 727.604> 1066 150<476.979 525.552>
-VStem: 73 162<356 585.515> 420 613 787 161<426.922 667>
+Flags: HW
+HStem: 0 76<147 291> 429 75<215 355> 521 73<233 257>
+VStem: 36 79<174 286> 205 299 384 79<208 326>
 LayerCount: 2
 Fore
-Refer: 321 769 N 1 0 0 1 -6 -214 2
+Refer: 321 769 N 1 0 0 1 -3 -104 2
 Refer: 140 248 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

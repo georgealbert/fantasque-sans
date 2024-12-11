@@ -1,20 +1,19 @@
 StartChar: SF010000
 Encoding: 9484 9484 588
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 438 165<613 1080>
-VStem: 448 165<-505 438>
+Flags: HW
+HStem: 214 81<299 527>
+VStem: 219 81<-247 214>
 LayerCount: 2
 Fore
 SplineSet
-448 603 m 1
- 1080 603 l 1
- 1080 438 l 1
- 613 438 l 1
- 613 -505 l 1
- 448 -505 l 1
- 448 603 l 1
+219 294 m 1
+ 527 294 l 1
+ 527 214 l 1
+ 299 214 l 1
+ 299 -247 l 1
+ 219 -247 l 1
+ 219 294 l 1
 EndSplineSet
-Validated: 1
 EndChar

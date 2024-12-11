@@ -1,13 +1,12 @@
 StartChar: Acircumflex
 Encoding: 194 194 73
-Width: 1195
+Width: 583
 VWidth: 0
-Flags: W
-HStem: 496 119<407.362 801> 1410.64 300
-VStem: 319.44 590
+Flags: HW
+HStem: 242 58<199 391> 689 146
+VStem: 156 288
 LayerCount: 2
 Fore
-Refer: 116 94 N 1 0 0 1 255.44 726.64 2
+Refer: 116 94 N 1 0 0 1 125 355 2
 Refer: 26 65 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

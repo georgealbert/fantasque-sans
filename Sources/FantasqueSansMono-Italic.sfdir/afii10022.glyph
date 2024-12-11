@@ -1,11 +1,10 @@
 StartChar: afii10022
 Encoding: 1045 1045 759
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -3 151<211 834.964> 666 150<344 782> 1144 153<407 1066>
+Flags: HW
+HStem: -1 74<103 408> 325 73<168 382> 559 75<199 521>
 LayerCount: 2
 Fore
 Refer: 30 69 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

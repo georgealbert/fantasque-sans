@@ -1,22 +1,21 @@
 StartChar: afii10068
 Encoding: 1075 1075 796
-Width: 1060
-Flags: W
-HStem: 0 21G<217 473> 810 210<473 865.581>
-VStem: 217 256<0 810>
-AnchorPoint: "above_accent" 569 1107 basechar 0
+Width: 517
+Flags: HW
+HStem: 0 10G<106 231> 396 103<231 423>
+VStem: 106 125<0 396>
+AnchorPoint: "above_accent" 278 541 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-217 1020 m 1
- 791 1020 l 2
- 866 1020 914 1013 961 997 c 1
- 867 773 l 1
- 837 795 789 810 763 810 c 1
- 473 810 l 1
- 473 0 l 1
- 217 0 l 1
- 217 1020 l 1
+106 498 m 1
+ 386 498 l 2
+ 423 498 446 495 469 487 c 1
+ 423 377 l 1
+ 408 388 386 396 373 396 c 1
+ 231 396 l 1
+ 231 0 l 1
+ 106 0 l 1
+ 106 498 l 1
 EndSplineSet
-Validated: 1
 EndChar

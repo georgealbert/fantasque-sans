@@ -1,12 +1,11 @@
 StartChar: afii10069.serbian
 Encoding: 57349 57349 974
-Width: 1060
-VWidth: 14
-Flags: W
-HStem: -402 155<167.969 489.164> -8 152<263.542 493.461> 890 144<420.442 744.614>
-VStem: 66 152<187.28 570.631>
+Width: 517
+VWidth: 6
+Flags: HW
+HStem: -196 76<82 239> -4 74<129 241> 435 70<205 364>
+VStem: 32 74<91 279>
 LayerCount: 2
 Fore
 Refer: 6 103 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

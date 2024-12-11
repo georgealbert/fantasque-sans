@@ -1,19 +1,18 @@
 StartChar: uni0307
 Encoding: 775 775 330
-Width: 1060
-VWidth: -28
-Flags: W
-HStem: 1184 246<311 594>
-VStem: 311 285<1184 1430>
-AnchorPoint: "above_accent" 459 1107 mark 0
+Width: 517
+VWidth: -13
+Flags: HW
+HStem: 578 120<152 290>
+VStem: 152 139<578 698>
+AnchorPoint: "above_accent" 224 541 mark 0
 LayerCount: 2
 Fore
 SplineSet
-310 1430 m 1
- 594 1430 l 1
- 596 1184 l 1
- 311 1184 l 1
- 310 1430 l 1
+151 698 m 1
+ 290 698 l 1
+ 291 578 l 1
+ 152 578 l 1
+ 151 698 l 1
 EndSplineSet
-Validated: 1
 EndChar

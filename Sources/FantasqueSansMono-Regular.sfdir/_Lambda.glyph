@@ -1,20 +1,19 @@
 StartChar: Lambda
 Encoding: 923 923 385
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -19 21G<778 942.333> 1278 20G<454.251 579.589>
+Flags: HW
+HStem: -9 10G<380 460> 624 10G<222 283>
 LayerCount: 2
 Fore
 SplineSet
-833 -19 m 1
- 723 318 625 651 517 982 c 1
- 403 650 309 306 185 -24 c 1
- 23 0 l 1
- 461 1298 l 1
- 573 1298 l 1
- 997 11 l 1
- 833 -19 l 1
+407 -9 m 1
+ 353 156 305 317 252 479 c 1
+ 196 317 151 149 90 -12 c 1
+ 11 0 l 1
+ 225 634 l 1
+ 280 634 l 1
+ 487 5 l 1
+ 407 -9 l 1
 EndSplineSet
-Validated: 1
 EndChar

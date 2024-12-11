@@ -1,19 +1,18 @@
 StartChar: asciicircum
 Encoding: 94 94 116
-Width: 1060
-VWidth: -10
-Flags: W
-HStem: 467 634
+Width: 517
+VWidth: -4
+Flags: HW
+HStem: 228 310
 LayerCount: 2
 Fore
 SplineSet
-520 1101 m 1
- 978 590 l 1
- 858 467 l 1
- 522 829 l 1
- 167 467 l 1
- 52 576 l 1
- 520 1101 l 1
+254 538 m 1
+ 478 288 l 1
+ 419 228 l 1
+ 255 405 l 1
+ 82 228 l 1
+ 25 281 l 1
+ 254 538 l 1
 EndSplineSet
-Validated: 1
 EndChar

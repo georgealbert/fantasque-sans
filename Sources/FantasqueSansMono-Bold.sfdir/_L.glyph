@@ -1,24 +1,23 @@
 StartChar: L
 Encoding: 76 76 35
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -3 210<413 950.961> 1305 20G<157 413>
-VStem: 157 256<207 1325>
-AnchorPoint: "cedilla_accent" 538 0 basechar 0
-AnchorPoint: "above_accent" 279 1322 basechar 0
+Flags: HW
+HStem: -1 103<202 464> 637 10G<77 202>
+VStem: 77 125<101 647>
+AnchorPoint: "cedilla_accent" 263 0 basechar 0
+AnchorPoint: "above_accent" 136 646 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-157 -3 m 1
- 157 1325 l 1
- 413 1325 l 1
- 413 207 l 1
- 839 207 l 2
- 898 210 909 213 953 228 c 1
- 1025 31 l 1
- 978 15 916 -3 841 -3 c 2
- 157 -3 l 1
+77 -1 m 1
+ 77 647 l 1
+ 202 647 l 1
+ 202 101 l 1
+ 410 101 l 2
+ 439 102 444 104 465 111 c 1
+ 500 15 l 1
+ 477 7 448 -1 411 -1 c 2
+ 77 -1 l 1
 EndSplineSet
-Validated: 1
 EndChar

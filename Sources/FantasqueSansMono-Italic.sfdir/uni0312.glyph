@@ -1,18 +1,17 @@
 StartChar: uni0312
 Encoding: 786 786 494
-Width: 1060
-VWidth: -43
-Flags: W
-HStem: 1235 420
-VStem: 451 327
+Width: 517
+VWidth: -20
+Flags: HW
+HStem: 603 205
+VStem: 220 160
 LayerCount: 2
 Fore
 SplineSet
-451 1283 m 1
- 511 1395 559 1504 633 1655 c 1
- 778 1621 l 1
- 732 1479 677 1338 636 1235 c 1
- 451 1283 l 1
+220 626 m 1
+ 249 681 273 734 309 808 c 1
+ 380 792 l 1
+ 358 723 331 653 311 603 c 1
+ 220 626 l 1
 EndSplineSet
-Validated: 1
 EndChar

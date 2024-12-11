@@ -1,22 +1,21 @@
 StartChar: underscoredbl
 Encoding: 8215 8215 539
-Width: 1060
-VWidth: 41
-Flags: W
-HStem: -530 174<56 1002> -258 174<56 1002>
+Width: 517
+VWidth: 20
+Flags: HW
+HStem: -259 85<27 489> -126 85<27 489>
 LayerCount: 2
 Fore
 SplineSet
-56 -356 m 1
- 1002 -356 l 1
- 1002 -530 l 1
- 52 -530 l 1
- 56 -356 l 1
-56 -84 m 1
- 1002 -84 l 1
- 1002 -258 l 1
- 52 -258 l 1
- 56 -84 l 1
+27 -174 m 1
+ 489 -174 l 1
+ 489 -259 l 1
+ 25 -259 l 1
+ 27 -174 l 1
+27 -41 m 1
+ 489 -41 l 1
+ 489 -126 l 1
+ 25 -126 l 1
+ 27 -41 l 1
 EndSplineSet
-Validated: 1
 EndChar

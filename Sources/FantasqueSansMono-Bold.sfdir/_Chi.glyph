@@ -1,11 +1,10 @@
 StartChar: Chi
 Encoding: 935 935 383
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 1351 22G<165.355 255 777.151 824.556>
+Flags: HW
+HStem: 660 11G<81 125 379 403>
 LayerCount: 2
 Fore
 Refer: 47 88 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

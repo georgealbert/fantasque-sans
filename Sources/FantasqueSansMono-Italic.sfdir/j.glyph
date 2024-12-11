@@ -1,19 +1,18 @@
 StartChar: j
 Encoding: 106 106 10
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -387 156<210.666 477.366> 892 149<504.147 703.795> 1179 225<758 948>
-VStem: 710 156<571.234 890.178>
+Flags: HW
+HStem: -189 76<103 233> 436 73<246 344> 576 110<370 463>
+VStem: 347 76<279 435>
 LayerCount: 2
 Fore
 SplineSet
-758 1404 m 1
- 991 1401 l 1
- 948 1176 l 1
- 714 1179 l 1
- 758 1404 l 1
+370 686 m 1
+ 484 684 l 1
+ 463 574 l 1
+ 349 576 l 1
+ 370 686 l 1
 EndSplineSet
 Refer: 330 567 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

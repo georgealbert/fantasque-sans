@@ -1,13 +1,12 @@
 StartChar: uni01E9.noloop
 Encoding: 57354 57354 982
-Width: 1060
-VWidth: -2
-Flags: W
-HStem: -18 155<806.664 889.237> 0 21G<61 242.5> 1038 20G<850 967.971> 1407 20G<305 469> 1439 440
-VStem: 311 161<1171.42 1410.36>
+Width: 517
+VWidth: 0
+Flags: HW
+HStem: -9 76<394 434> 0 10G<30 118> 507 10G<415 473> 687 10G<149 229> 703 215
+VStem: 152 79<572 689>
 LayerCount: 2
 Fore
-Refer: 332 780 N 1 0 0 1 -311 219 2
+Refer: 332 780 N 1 0 0 1 -152 107 2
 Refer: 980 57352 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

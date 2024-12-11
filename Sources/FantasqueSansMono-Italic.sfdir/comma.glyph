@@ -1,22 +1,21 @@
 StartChar: comma
 Encoding: 44 44 54
-Width: 1060
-VWidth: 26
-Flags: W
-HStem: -393 667
-VStem: 223 408
+Width: 517
+VWidth: 12
+Flags: HW
+HStem: -192 326
+VStem: 109 199
 LayerCount: 2
 Fore
 SplineSet
-379 274 m 1
- 631 274 l 1
- 586 11 l 1
- 586 8 l 2
- 548 -189 439 -317 257 -393 c 1
- 223 -254 l 1
- 325 -203 388 -133 415 5 c 1
- 327 5 l 1
- 379 274 l 1
+185 134 m 1
+ 308 134 l 1
+ 286 5 l 1
+ 286 4 l 2
+ 267 -92 214 -155 125 -192 c 1
+ 109 -124 l 1
+ 159 -99 190 -65 203 2 c 1
+ 160 2 l 1
+ 185 134 l 1
 EndSplineSet
-Validated: 1
 EndChar

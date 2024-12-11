@@ -1,12 +1,11 @@
 StartChar: uni03DC
 Encoding: 988 988 426
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 21G<116 382> 642 216<377 708.256> 1115 209<377 902.784>
-VStem: 116 261<3 640 856 1114>
+Flags: HW
+HStem: 0 10G<57 187> 313 105<184 346> 544 102<184 441>
+VStem: 57 127<1 312 418 544>
 LayerCount: 2
 Fore
 Refer: 31 70 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

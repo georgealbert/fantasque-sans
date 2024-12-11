@@ -1,19 +1,18 @@
 StartChar: cdotaccent
 Encoding: 267 267 186
-Width: 967
+Width: 472
 VWidth: 0
-Flags: W
-HStem: -10 117<330.41 738.555> 930 117<334.952 710.715> 1196 132<426 555>
-VStem: 37 117<294.708 747.822> 426 129<1199 1328>
+Flags: HW
+HStem: -5 57<161 361> 454 57<164 347> 584 64<208 271>
+VStem: 18 57<144 365> 208 63<585 648>
 LayerCount: 2
 Fore
 SplineSet
-426 1328 m 5
- 555 1328 l 5
- 555 1199 l 5
- 426 1196 l 5
- 426 1328 l 5
+208 648 m 5
+ 271 648 l 5
+ 271 585 l 5
+ 208 584 l 5
+ 208 648 l 5
 EndSplineSet
 Refer: 2 99 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

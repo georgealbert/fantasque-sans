@@ -1,13 +1,12 @@
 StartChar: uni04D6
 Encoding: 1238 1238 918
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -3 151<211 834.964> 666 150<344 782> 1144 153<407 1066> 1376 153<590.679 863.382>
-VStem: 387 164<1570.95 1665>
+Flags: HW
+HStem: -1 74<103 408> 325 73<168 382> 559 75<199 521> 672 75<288 422>
+VStem: 189 80<767 813>
 LayerCount: 2
 Fore
-Refer: 326 774 S 1 0 0 1 -7 19 2
+Refer: 326 774 S 1 0 0 1 -3 9 2
 Refer: 759 1045 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

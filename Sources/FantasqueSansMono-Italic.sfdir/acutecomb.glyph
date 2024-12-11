@@ -1,18 +1,17 @@
 StartChar: acutecomb
 Encoding: 769 769 321
-Width: 1060
-VWidth: -43
-Flags: W
-HStem: 1280 150<482.979 531.552>
-VStem: 426 613
+Width: 517
+VWidth: -20
+Flags: HW
+HStem: 625 73<236 260>
+VStem: 208 299
 LayerCount: 2
 Fore
 SplineSet
-426 1430 m 1
- 571 1473 803 1637 922 1741 c 1
- 1039 1591 l 1
- 924 1483 634 1322 489 1280 c 1
- 426 1430 l 1
+208 698 m 1
+ 279 719 392 799 450 850 c 1
+ 507 777 l 1
+ 451 724 310 646 239 625 c 1
+ 208 698 l 1
 EndSplineSet
-Validated: 1
 EndChar

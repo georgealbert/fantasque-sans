@@ -1,11 +1,10 @@
 StartChar: uni04AE
 Encoding: 1198 1198 878
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 1294 20G<301.965 374 969 1035.85>
+Flags: HW
+HStem: 632 10G<147 183 473 506>
 LayerCount: 2
 Fore
 Refer: 48 89 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

@@ -1,13 +1,12 @@
 StartChar: Lcommaaccent
 Encoding: 315 315 250
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: -623 498 -3 154<256 877.834> 1278 20G<314.111 479>
-VStem: 137 322
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: -304 243 -1 75<125 429> 624 10G<153 234>
+VStem: 67 157
 LayerCount: 2
 Fore
-Refer: 518 806 N 1 0 0 1 -137 -129 2
+Refer: 518 806 N 1 0 0 1 -67 -63 2
 Refer: 35 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

@@ -2,18 +2,17 @@ StartChar: gravecomb
 Encoding: 768 768 202
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 1162 290
-VStem: -7 479
-AnchorPoint: "accents" 234 1200.6 mark 0
+Flags: HW
+HStem: 567 142
+VStem: -3 234
+AnchorPoint: "accents" 114 586 mark 0
 LayerCount: 2
 Fore
 SplineSet
-55 1452 m 5
- 179 1355 328 1301 472 1256 c 5
- 436 1162 l 5
- 287 1204 110 1265 -7 1362 c 5
- 55 1452 l 5
+27 709 m 5
+ 88 662 160 635 230 613 c 5
+ 213 567 l 5
+ 140 588 54 618 -3 665 c 5
+ 27 709 l 5
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,12 +1,11 @@
 StartChar: Zcaron
 Encoding: 381 381 313
-Width: 1060
-VWidth: 32
-Flags: W
-HStem: -3 154<217 873.938> 1150 152<237 904> 1366 440
+Width: 517
+VWidth: 15
+Flags: HW
+HStem: -1 75<106 427> 562 74<116 441> 667 215
 LayerCount: 2
 Fore
-Refer: 332 780 S 1 0 0 1 -1 146 2
+Refer: 332 780 S 1 0 0 1 -0 71 2
 Refer: 49 90 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

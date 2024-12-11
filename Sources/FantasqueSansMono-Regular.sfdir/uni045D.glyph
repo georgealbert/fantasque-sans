@@ -1,16 +1,15 @@
 StartChar: uni045D
 Encoding: 1117 1117 829
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -6 21G<119 278 745.5 907> 1000 17G<119 278 656 902> 1085 461
-VStem: 119 154<260 1017> 218 590 741 158<-6 721>
+Flags: HW
+HStem: -3 10G<58 136 364 443> 488 8G<58 136 320 440> 530 225
+VStem: 58 75<127 497> 106 288 362 77<-3 352>
 LayerCount: 2
 Back
-Refer: 322 768 S 1 0 0 1 56 -195 2
+Refer: 322 768 S 1 0 0 1 27.3438 -95.2148 2
 Refer: 792 1080 N 1 0 0 1 0 0 2
 Fore
-Refer: 322 768 S 1 0 0 1 56 -195 2
+Refer: 322 768 S 1 0 0 1 27 -95 2
 Refer: 792 1080 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

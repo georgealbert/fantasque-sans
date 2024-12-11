@@ -1,12 +1,11 @@
 StartChar: Kappa
 Encoding: 922 922 376
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 21G<84 342> 1315 20G<84 342 787.5 828.147>
-VStem: 84 258<0 519.312 871 1335>
+Flags: HW
+HStem: 0 10G<41 167> 642 10G<41 167 385 404>
+VStem: 41 126<0 254 425 652>
 LayerCount: 2
 Fore
 Refer: 34 75 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

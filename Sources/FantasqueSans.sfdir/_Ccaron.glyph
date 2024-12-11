@@ -1,21 +1,20 @@
 StartChar: Ccaron
 Encoding: 268 268 187
-Width: 1096
+Width: 535
 VWidth: 0
-Flags: W
-HStem: 0 117<407.701 782.654> 1059 21<831.5 903.898> 1220 119<442.025 763.052>
-VStem: 74 117<380.634 919.132>
+Flags: HW
+HStem: 0 57<199 382> 517 10<406 441> 596 58<216 373>
+VStem: 36 57<186 449>
 LayerCount: 2
 Fore
 SplineSet
-583 1401 m 1
- 288 1617 l 1
- 345 1701 l 1
- 583 1543 l 1
- 821 1701 l 1
- 878 1617 l 1
- 583 1401 l 1
+285 684 m 1
+ 141 790 l 1
+ 168 831 l 1
+ 285 753 l 1
+ 401 831 l 1
+ 429 790 l 1
+ 285 684 l 1
 EndSplineSet
 Refer: 28 67 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

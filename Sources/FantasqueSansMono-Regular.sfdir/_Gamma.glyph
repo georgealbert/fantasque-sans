@@ -1,22 +1,21 @@
 StartChar: Gamma
 Encoding: 915 915 370
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: 0 21G<111 272> 1147 154<272 911.956>
-VStem: 111 161<0 1147>
+Flags: HW
+HStem: 0 10G<54 133> 560 75<133 445>
+VStem: 54 79<0 560>
 LayerCount: 2
 Fore
 SplineSet
-111 1301 m 1
- 795 1301 l 2
- 870 1301 908 1287 955 1271 c 1
- 914 1125 l 1
- 870 1140 852 1144 793 1147 c 1
- 272 1147 l 1
- 272 0 l 1
- 111 0 l 1
- 111 1301 l 1
+54 635 m 1
+ 388 635 l 2
+ 425 635 443 629 466 621 c 1
+ 446 549 l 1
+ 425 556 416 559 387 560 c 1
+ 133 560 l 1
+ 133 0 l 1
+ 54 0 l 1
+ 54 635 l 1
 EndSplineSet
-Validated: 1
 EndChar

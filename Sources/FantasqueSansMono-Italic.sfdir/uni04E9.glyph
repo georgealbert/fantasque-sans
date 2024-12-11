@@ -1,12 +1,11 @@
 StartChar: uni04E9
 Encoding: 1257 1257 937
-Width: 1060
+Width: 517
 VWidth: 0
-Flags: W
-HStem: -16 153<300.37 651.378> 439 158<251.464 818.473> 879 153<458.176 757.273>
-VStem: 45 158<228.213 420.159> 852 157<589.712 782.449>
+Flags: HW
+HStem: -8 75<147 318> 214 77<123 400> 429 75<224 370>
+VStem: 22 77<111 205> 416 77<288 382>
 LayerCount: 2
 Fore
 Refer: 839 1139 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
