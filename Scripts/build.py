@@ -33,7 +33,8 @@ conflicting(
 #     option('XtraSmall', '13px', Line(x, x)),
 #     option('Small', '14px', Line(x, x)),
 # #   option('medium', 15px', Line(1650, 398)),
-    option('LargeLineHeight', 'Large Line Height', Line(1750, 498)),
+    # option('LargeLineHeight', 'Large Line Height', Line(1700, 448)),
+    option('LargeLineHeight', 'Large Line Height', Line(850, 248)), # 高度760可能覆盖不了中文字符，780也不行, 800还差一点,高度810的光标已经基本可以覆盖中中文字符了,815也没有完全覆盖。820还差一点,835也不行啊。
 #     option('XtraLarge', '17px', Line(x, x))
 )
 

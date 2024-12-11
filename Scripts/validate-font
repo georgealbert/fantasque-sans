@@ -2,14 +2,14 @@
 
 # Validate a font file with FontForge.
 
-if ! type fontforge &> /dev/null; then echo "ERROR: Missing dependency: fontforge" 1>&2; exit 1; fi
+if ! type /Applications/FontForge.app/Contents/Resources/opt/local/bin/fontforge &> /dev/null; then echo "ERROR: Missing dependency: fontforge" 1>&2; exit 1; fi
 
 name=$1
 basename=$(basename "$name" .sfdir)
 
 echo -e "\e[1;37mValidating ${basename}... \e[0m"
 
-output=$(fontforge --quiet -lang=py -script - "$name" <<EOF
+output=$(/Applications/FontForge.app/Contents/Resources/opt/local/bin/fontforge --quiet -lang=py -script - "$name" <<EOF
 import fontforge;
 import sys;
 
