@@ -7,8 +7,8 @@ Copyright: Created by Jany Belluz with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2013-9-13: Created."
 Version: 1.8.0
 ItalicAngle: -11
-UnderlinePosition: -93.75
-UnderlineWidth: 14.6484
+UnderlinePosition: -200
+UnderlineWidth: 15
 Ascent: 800
 Descent: 200
 InvalidEm: 0
@@ -60,19 +60,19 @@ BeginPrivate: 1
 BlueValues 31 [-14 0 499 518 625 657 685 699]
 EndPrivate
 Grid
--1000 576.611328125 m 0
- 2000 576.611328125 l 1024
+-1000 576 m 0
+ 2000 576 l 1024
   Named: "bas point du i"
--1000 497.94921875 m 0
- 2000 497.94921875 l 1024
+-1000 498 m 0
+ 2000 498 l 1024
   Named: "lowercase"
--1000 625.244140625 m 0
- 2000 625.244140625 l 1024
+-1000 625 m 0
+ 2000 625 l 1024
   Named: "numbers"
--958.720703125 246.330078125 m 0
- 1891.27929688 246.330078125 l 1024
--950 671.6796875 m 0
- 1900 671.6796875 l 1024
+-958 246 m 0
+ 1892 246 l 1024
+-950 672 m 0
+ 1900 672 l 1024
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 423805 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont

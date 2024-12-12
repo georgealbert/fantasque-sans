@@ -9,3 +9,6 @@ Sources/*.sfd-*
 Variants
 
 *.pyc
+
+.DS_Store
+Sources/.DS_Store
